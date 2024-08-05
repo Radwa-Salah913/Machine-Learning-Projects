@@ -1,6 +1,6 @@
 # Titanic
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Titanic_in_color.png" width="1000" height="400">
+![Screenshot (142)](https://github.com/user-attachments/assets/f3523dca-2440-4069-811f-427cdd05402e)
 
 
 ### Description:
