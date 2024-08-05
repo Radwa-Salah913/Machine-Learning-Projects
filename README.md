@@ -13,6 +13,9 @@ there weren’t enough lifeboats for everyone on board, resulting in the death o
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
+# Link of Dataset
+[Click here](https://www.kaggle.com/datasets/yasserh/titanic-dataset/data)
+
 ## Notebook divide into 5 parts:
 1-Load Libraries
 
